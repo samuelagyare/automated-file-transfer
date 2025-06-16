@@ -1,5 +1,6 @@
 # automated-file-transfer
 Automated File Transfer: Browser → Google Cloud Storage → Google Drive
+
 This repository contains the code and instructions for a Proof of Concept (POC) that demonstrates a robust, automated file transfer system. Users can upload files through a simple web interface directly to a Google Cloud Storage (GCS) bucket. A backend process then automatically and securely transfers the file to a specified Google Drive folder.
 
 This project is an excellent demonstration of a modern, event-driven, serverless architecture on Google Cloud Platform (GCP).
